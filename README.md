@@ -28,16 +28,17 @@ The directory structure of the web app is as follows:
 - Frontend server will start on port 3000.
 - Now open `http://localhost:3000/` and proceed creating jobs and applications by signing up in required categories.
 
-![Picture1](https://github.com/user-attachments/assets/6a7f5fbd-e063-4cc7-a8df-f39e4cfe639d)
-![Picture2](https://github.com/user-attachments/assets/71e407b7-38a6-496f-881a-1767644109fa)
-![Picture3](https://github.com/user-attachments/assets/4c83c540-7a0f-4a06-a5be-fc93fe2666be)
-![Picture4](https://github.com/user-attachments/assets/536be1e2-d4db-45d0-ad8d-3d59dc837026)
-![Picture5](https://github.com/user-attachments/assets/74871dcc-ec63-43de-a669-6d8109844a73)
-![Picture6](https://github.com/user-attachments/assets/646089dd-10aa-43ff-9582-bc85dde95eac)
-![Picture7](https://github.com/user-attachments/assets/80c661c7-b8a7-478d-8708-5c01f3f295be)
-![Picture8](https://github.com/user-attachments/assets/06a99297-ee51-407c-993f-0bad3952c9b7)
-![Picture9](https://github.com/user-attachments/assets/06a44156-a992-46ca-8ff4-ec291112d582)
-![Picture10](https://github.com/user-attachments/assets/c9c69c66-54a0-420e-b8fd-134d030cd9ad)
+![Screenshot 2024-10-22 232826](https://github.com/user-attachments/assets/6b7d6416-73f2-4d33-9582-d4a5f1712965)
+![Screenshot 2024-10-22 232224](https://github.com/user-attachments/assets/408c154b-4eff-4d7e-a8bd-162f148d46a4)
+![Screenshot 2024-10-22 232434](https://github.com/user-attachments/assets/940396da-6a9e-4f05-a5e1-4b11cfe7eaf1)
+![Screenshot 2024-10-22 232342](https://github.com/user-attachments/assets/03361f37-399d-4144-b4d1-d1018620772a)
+![Screenshot 2024-10-22 232356](https://github.com/user-attachments/assets/7a327524-266e-4549-801e-b17bb91bcf2a)
+
+![Screenshot 2024-10-22 232301](https://github.com/user-attachments/assets/ede82e65-aa6b-4907-bcbf-ac481e6af5c7)
+
+![Screenshot 2024-10-22 232513](https://github.com/user-attachments/assets/76008691-9558-4ba0-aacc-8d45940784a7)
+![Screenshot 2024-10-22 232504](https://github.com/user-attachments/assets/4a3ebab3-c6c4-4600-8b2a-6e715c7e91f5)
+![Screenshot 2024-10-22 232456](https://github.com/user-attachments/assets/06ffd707-8fdc-43a2-b19d-8c7af0c46995)
 
 
 
